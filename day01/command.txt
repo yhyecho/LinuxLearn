@@ -1,4 +1,11 @@
 ls
 ls -ls
+rm
+rm -rf
+mkdir
+man rm // 进入用户手册,查看命令的说明
+/-r 查找-r参数
+按N查找下一处 按Q退出用户手册
+
 Ctrl + D // 退出交互模式
 Ctrl + L // 清理屏幕
