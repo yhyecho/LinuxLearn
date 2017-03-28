@@ -1,0 +1,4 @@
+ls
+ls -ls
+Ctrl + D // 退出交互模式
+Ctrl + L // 清理屏幕
